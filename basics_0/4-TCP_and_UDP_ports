@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sudosudo netstat -lpn
